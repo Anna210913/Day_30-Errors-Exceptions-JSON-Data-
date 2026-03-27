@@ -4,18 +4,18 @@ Enhancing the Password Manager GUI app.
 Day 30 focused on making the Password Manager **(Day 29)** more robust, reliable, and user-friendly by introducing proper error handling and improving how data is stored and accessed. Rather than building a new project, this day was all about refining and strengthening the existing application.
 
 ## ⚙️Improvements Made to the Password Manager 
-🔍 Search Functionality
+- Search Functionality 🔍
     Users can now search for saved credentials by website
     Results are displayed using a pop-up dialog box
-⚠️ Exception Handling
-  Prevents the program from crashing when the data file doesn’t exist a website     is not found in the saved data.
-📁 Improved JSON Data Management
-  Reading existing data from the JSON file
-  Updating it with new entries
-  Writing the updated data back safely
-🧹 Better User Experience
-  Clearing input fields after saving
-  Clear and helpful pop-up messages
+- Exception Handling ⚠️
+    Prevents the program from crashing when the data file doesn’t exist e.g., when a website is not found in the saved data.
+- Improved JSON Data Management 📁
+    Reading existing data from the JSON file
+    Updating it with new entries
+    Writing the updated data back safely
+- Better User Experience 🧹
+    Clearing input fields after saving
+    Clear and helpful pop-up messages
 
 
 ## What I Learned That Day
